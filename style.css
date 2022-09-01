@@ -1,0 +1,40 @@
+.checked {
+    text-decoration: line-through;
+  }
+  
+ main {
+display: flex;
+flex-direction: row;
+
+  }
+
+#all {
+    background-color: antiquewhite;
+    width: 200px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+#pending {
+    background-color: antiquewhite;
+    width: 200px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+#completed {
+    background-color: antiquewhite;
+    width: 200px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+h2 {
+display: flex;
+padding: 10px;
+background-color: #FF8C64;
+height: 30px;
+width: 220px;
+border-radius: 10px;
+margin: 30px;
+}
